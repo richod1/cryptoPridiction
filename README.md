@@ -1,2 +1,2 @@
 # cryptoPridiction
-Ml model to predict crypto prize fro the next 30 days
+Ml model to predict crypto prize for the next 30 days
